@@ -8,7 +8,7 @@ local library = {flags = {}, toggled = true, keybind = Enum.KeyCode.RightShift, 
 local themes = {
     Dark = {
         TextColor = Color3.fromRGB(255, 255, 255),
-        MainFrame = Color3.fromRGB(255, 130, 9),
+        MainFrame = Color3.fromRGB(20, 20, 209),
         TabBackground = Color3.fromRGB(20, 20, 20),
         Tab = Color3.fromRGB(255, 130, 9),
         EnabledText = Color3.fromRGB(255, 255, 255),
